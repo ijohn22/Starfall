@@ -1,0 +1,27 @@
+body {
+  background-image: url("Background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: scroll;
+}
+
+h1 {
+  color: black;
+  font-family: arial;
+}
+
+p {
+  color: black;
+  font-family: arial;
+  margin-right: 550px;
+  margin-left: 550px;
+}
+
+.rectange {
+  height: 800px;
+  width: 600px;
+  background-color: #555;
+  position: fixed;
+  top: 0;
+  left: 0;
