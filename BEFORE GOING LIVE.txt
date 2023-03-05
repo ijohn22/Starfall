@@ -1,0 +1,1 @@
+Before deploying to a live website, make sure to replace development.js with production.min.js! Development builds of React provide more helpful error messages, but slow down your website a lot.
