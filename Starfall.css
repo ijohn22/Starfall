@@ -6,7 +6,27 @@ body {
   background-attachment: scroll;
 }
 
+.ugh {
+  background-color: rgba(80, 80, 80, 1);
+  text-align: center;
+  margin-right: 500px;
+  margin-left: 500px;
+}
+
+.fuckass {
+  background-color: rgba(160.9, 160.9, 160.9, 1);
+  text-align: center;
+  margin-right: 500px;
+  margin-left: 500px;
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-size: 50
+}
+
 h1 {
+  font-size: 5
   color: black;
   font-family: arial;
 }
@@ -14,14 +34,11 @@ h1 {
 p {
   color: black;
   font-family: arial;
-  margin-right: 550px;
-  margin-left: 550px;
+  margin-right: 50px;
+  margin-left: 50px;
 }
 
-.rectange {
-  height: 800px;
-  width: 600px;
-  background-color: #555;
-  position: fixed;
-  top: 0;
-  left: 0;
+img {
+  width: 100%;
+  height: auto;
+}
